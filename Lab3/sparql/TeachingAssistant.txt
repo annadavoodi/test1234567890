@@ -1,3 +1,6 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX : <http://www.semanticweb.org/anna/ontologies/2025/3/untitled-ontology-2#>
 
     :19781125-0031 rdf:type :TeachingAssistant .
     :19781125-0031 :StaffID "19781125-0031"^^xsd:string .

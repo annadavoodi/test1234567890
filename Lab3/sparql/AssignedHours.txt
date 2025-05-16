@@ -1,3 +1,6 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX : <http://www.semanticweb.org/anna/ontologies/2025/3/untitled-ontology-2#>
 
     :AH1 rdf:type :AssignedHours .
     :AH1 :AssignedHours "240.0"^^xsd:float .
